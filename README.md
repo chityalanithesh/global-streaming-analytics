@@ -9,3 +9,22 @@ Built and managed global real-time data pipelines using Apache Spark and Kafka, 
 - [Folder Structure](#folder-structure)
 - [Future Work](#future-work)
 
+- ## 📁 Folder Structure
+
+```
+.
+├── scripts/
+│   ├── spark_streaming_job.py
+│   └── kafka/
+│       └── producer.py
+├── configs/
+│   └── kafka-config.yaml
+├── docs/
+│   └── .gitkeep
+├── .gitignore
+├── LICENSE
+└── README.md
+```
+
+
+
